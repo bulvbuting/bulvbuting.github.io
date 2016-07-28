@@ -1,0 +1,9 @@
+baseurl: /
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page:num"
+encoding: utf-8
+name: ZL
+description:  博观而约取,厚积而薄发。
+url: https://bulvbuting.github.io
+avatar: https://secure.gravatar.com/avatar/cf9be43ae180f34a4e3b1e924290ee57?s=80
