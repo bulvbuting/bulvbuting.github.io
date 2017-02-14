@@ -6,7 +6,7 @@ icon: fa-link
 ---
 {% include link name="wangwu" link="http://wangwu50.top/" desc="超哥的博客" %}
 
-{% include link name="rmqc" link="http://rmqc0909.github.io/" desc="丹丹的博客" %}
+{% include link name="rmqc" link="https://rmqc0909.github.io/index.html" desc="丹丹的博客" %}
 
 {% include link name="设计模式源码" link="https://github.com/iluwatar/java-design-patterns" desc="设计模式" %}
 
